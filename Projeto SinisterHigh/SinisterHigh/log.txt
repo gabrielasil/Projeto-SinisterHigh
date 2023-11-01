@@ -1,0 +1,33 @@
+Wed Jul 19 23:41:26 2023
+Linux-6.1.38-x64v2-rt12-xanmod1-1-rt-x86_64-with-glibc2.37
+Ren'Py 8.1.1.23060707
+ 
+
+Bootstrap to the start of init.init. took 0.05s
+Early init. took 0.00s
+Loader init. took 0.00s
+Loading error handling. took 0.16s
+Loading script. took 1.95s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.13s
+Loading analysis data. took 0.00s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/jovi/.renpy/backups/SinisterHigh':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.02s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
